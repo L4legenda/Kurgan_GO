@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/younghero"
+        android:title="Юные герои"
+        android:icon="@drawable/ic_face_younghero"/>
+
+    <item
+        android:id="@+id/map"
+        android:title="Карта"
+        android:icon="@drawable/ic_map"/>
+
+    <item
+        android:id="@+id/dialog"
+        android:title="Диалог"
+        android:icon="@drawable/ic_dialog"/>
+</menu>
